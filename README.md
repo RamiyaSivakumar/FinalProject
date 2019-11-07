@@ -23,6 +23,10 @@ There are about 200 available files under this criteria for each age category. T
 Upon loading the dataset, a unit test would be to print the first 10 lines of the file and the value returned would look similar to this:
 
 ![alt text](https://github.com/RamiyaSivakumar/FinalProject/blob/master/HTSeq-Counts%20Image.png)
+
+
+An example of a file that contains the data can be found here: 
+https://github.com/RamiyaSivakumar/FinalProject/blob/master/cd5f0be9-9011-4826-99bc-2850f878ee4e.htseq.counts
 ***
 ## URL: 
 
@@ -49,5 +53,8 @@ These libraries specialize in working with RNASeq data. The edgeR package will b
 
 ## Proposed User Interface 
 ![alt text](https://github.com/RamiyaSivakumar/FinalProject/blob/master/Wire%20Diagram.png)
+
+The expected user interface is a html page that shows the progression of the analysis. The R script codes that lead to the final result will be included. The final interactive plot that summarizes the data will be presented for use and understanding of the data in a comprehensive manner. 
+
 
 
