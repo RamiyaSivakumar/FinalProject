@@ -1,6 +1,6 @@
 # FinalProject
 
-
+NOTE: The deadline for the milestone for week 3 has been extended to the 1st of December. 
 ***
 ## Deliverables: 
 
