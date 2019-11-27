@@ -1,4 +1,6 @@
 # FinalProject
+
+
 ***
 ## Deliverables: 
 
@@ -50,6 +52,8 @@ These libraries specialize in working with RNASeq data. The edgeR package will b
 ## Proposed Timelines and Major Milestones: 
 
 ![alt text](https://github.com/RamiyaSivakumar/FinalProject/blob/master/Milestones.png)
+
+NOTE: The submission of the week three milestone has been extended after request to Sunday, December 1st, 2019. 
 
 ## Proposed User Interface 
 ![alt text](https://github.com/RamiyaSivakumar/FinalProject/blob/master/Wire%20Diagram.png)
